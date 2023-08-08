@@ -18,3 +18,7 @@ some of the major concepts which had used and combined together: props, ternary 
 # 03-steps
 
 this project is a simple create-react-app project which is a tiny practice for using states in react components
+
+# 04-travel-list
+
+this project is a practice for some major react concepts like using components in seperate files, props, children prop, lifting states up and derived state, we could use this app to check our readiness for travel and don't forget our necessary stuffs for our journey.
