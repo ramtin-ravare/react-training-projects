@@ -1,24 +1,24 @@
 # react-training-projects
 
-I'm working on my React.js skills now, in this repository you can see some of my training projects
+I'm currently honing my React.js skills; This repository showcases some of my training projects.
 
 # 00-advise-project
 
-in this project i implement a basic react app by babel, react and react-dom packages
+In this project, I implemented a basic React app using the Babel, React, and React-DOM packages.
 
 # 01-pure-project
 
-this project is an imperative implementation of simple react app to better understand actually how react works
+This project is an imperative implementation of a simple React app, aimed at gaining a better understanding of how React actually works.
 
 # 02-pizza-project
 
-this project is a simple react project which is created and developed by create-react-app npm package;
-some of the major concepts which had used and combined together: props, ternary operator, destructuring, nested components, various styling methods, ...
+This project is a simple React project created and developed using the create-react-app npm package;
+Some of the major concepts that have been used and combined include props, the ternary operator, destructuring, nested components, and various styling methods.
 
 # 03-steps
 
-this project is a simple create-react-app project which is a tiny practice for using states in react components
+This project is a simple create-react-app project that serves as a small practice for using states in React components.
 
 # 04-travel-list
 
-this project is a practice for some major react concepts like using components in seperate files, props, children prop, lifting states up and derived state, we could use this app to check our readiness for travel and don't forget our necessary stuffs for our journey.
+This project is a practice for some major React concepts, such as using components in separate files, props, the children prop, lifting states up, and derived state, We could use this app to check our readiness for travel and not forget our necessary items for our journey.
