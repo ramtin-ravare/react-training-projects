@@ -22,3 +22,7 @@ This project is a simple create-react-app project that serves as a small practic
 # 04-travel-list
 
 This project is a practice for some major React concepts, such as using components in separate files, props, the children prop, lifting states up, and derived state, We could use this app to check our readiness for travel and not forget our necessary items for our journey.
+
+# 05-eat-n-split
+
+This project serves as a practice for previously learned concepts and is an app designed to make it easy to calculate bills when hanging out with friends.
